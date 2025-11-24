@@ -18,14 +18,3 @@ Dashboard summary to visualize totals and trends
 Why I Built This
 Most of us have had that moment: “Where did all my money go?”
 This project was born from exactly that feeling. I wanted something small, lightweight, and personal—a tool that doesn’t try to do too much, but does exactly what’s needed.
-
-Tech Stack
-(Adjust this section to match your build)
-
-Frontend: React / HTML / CSS / JavaScript
-
-Backend: Node.js / Express / Python / (your choice)
-
-Database: MongoDB / SQLite / Local Storage
-
-Tools: Chart.js / Tailwind / etc.
